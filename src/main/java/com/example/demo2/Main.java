@@ -27,6 +27,8 @@ import javafx.scene.paint.Color;
  * log10 is the log to the base 10, abs is absolute value,
  * и sqrt
  * големината на екрана е от -5 => 5 на x и y абцисите
+ *
+ * lmao
  */
 public class Main extends Application {
 
