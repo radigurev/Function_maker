@@ -28,7 +28,7 @@ import javafx.scene.paint.Color;
  * и sqrt
  * големината на екрана е от -5 => 5 на x и y абцисите
  *
- * lmao
+ * lmao cc
  */
 public class Main extends Application {
 
